@@ -33,6 +33,10 @@ Completely finished after 7.96 seconds.
 - ⚠️ Only `path/to/large/file.mp4` is preserved
 - ⚠️ Only files in origin are preserved
 
+## Anti-Pattern
+
+You must use `--invert-path` instead of `--path` for the expected action.
+
 ## "Old Unneeded Objects"
 
 ```python
