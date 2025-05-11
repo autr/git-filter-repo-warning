@@ -35,7 +35,7 @@ Completely finished after 7.96 seconds.
 
 ## Anti-Pattern
 
-You must use `--invert-path` instead of `--path` for the expected action.
+You must use `--invert-paths` while using `--path` for the expected action.
 
 ## "Old Unneeded Objects"
 
