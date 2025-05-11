@@ -1,6 +1,8 @@
 # Strong Warning
 
-It is my personal view that this is a [RTFM](https://en.wikipedia.org/wiki/RTFM) honey-trap.
+It is my personal view that this is a [RTFM](https://en.wikipedia.org/wiki/RTFM) honey-trap. 
+
+Do not be taken in by description of it's functionality as "Quick" and "Simple".
 
 ## Example
 
@@ -25,11 +27,11 @@ Total 7 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 Completely finished after 7.96 seconds.
 ```
 
-## Consequences
+## ⚠️ Consequences
 
-⚠️ all unstaged work deleted
-⚠️ only path/to/large/file.mp4 is preserved
-⚠️ only files in origin are preserved
+- ⚠️ All unstaged work irrepairably deleted
+- ⚠️ Only `path/to/large/file.mp4` is preserved
+- ⚠️ Only files in origin are preserved
 
 ## "Old Unneeded Objects"
 
@@ -55,3 +57,4 @@ Completely finished after 7.96 seconds.
 ```
 
 Use at your peril, or become a statistic.
+
